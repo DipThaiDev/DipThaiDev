@@ -1,7 +1,7 @@
 ### Hi there 👋
 You can call me Dip.
 - 🔭 I’m currently working on an economics research at IFD.
-- 🌱 I’m currently learning fronend web development.
+- 🌱 I’m currently learning frontend web development.
 - 👯 I’m looking to collaborate on learning basic frontend web development.
 - 📫 How to reach me: Krittaroek Pingwang (Facebook)
 <!--
